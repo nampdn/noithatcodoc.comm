@@ -1,9 +1,8 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: What we offer
+templateKey: product-page
+title: Bàn Làm Việc
+image: /img/img_0233.jpg
+heading: Bàn làm việc gỗ có ưu điểm gì?
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -99,3 +98,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
